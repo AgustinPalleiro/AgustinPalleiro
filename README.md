@@ -8,9 +8,9 @@ Actualmente estoy trabajando con tecnologías como **JavaScript**, **HTML**, **C
 
 ### 🚀 Tecnologías & Herramientas:
 - **Lenguajes:** JavaScript, C#, SQL, HTML5, CSS3, Java
-- **Frameworks:** React
+- **Frameworks:** React, React Native
 - **Bases de Datos:** SQL Server
-- **Herramientas:** Git, GitHub, Azure DevOps, Visual Studio, ServiceNow
+- **Herramientas:** Git, GitHub, Azure DevOps, Visual Studio, VS Code, SQL Management Studio, ServiceNow
 - **Otras habilidades:** Desarrollo web responsivo, APIs, testing, documentación técnica, análisis de sistemas
 
 ---
