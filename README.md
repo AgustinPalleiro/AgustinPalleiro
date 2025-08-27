@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Agustín Palleiro Lerena
 
-Soy estudiante avanzado de Analista en Tecnologías de la Información con experiencia en desarrollo web, soporte técnico y análisis de sistemas. Me apasiona el desarrollo de software y la tecnología, con un enfoque actual en el desarrollo **frontend** y **full stack**.
+Soy estudiante avanzado de Analista en Tecnologías de la Información con experiencia en desarrollo web y de aplicaciones, soporte técnico y análisis de sistemas. Me apasiona el desarrollo de software y la tecnología, con un enfoque actual en el desarrollo **frontend** y **full stack**.
 
-Actualmente estoy trabajando con tecnologías como **JavaScript**, **HTML**, **C#**, **SQL**, **React** y **APIs**, y tengo experiencia usando herramientas como **Git**, **GitHub**, **Azure DevOps** y **Visual Studio**.
+Actualmente estoy trabajando con tecnologías como **JavaScript**, **HTML**, **C#**, **SQL**, **React** - **React Native** y **APIs**, y tengo experiencia usando herramientas como **Git**, **GitHub**, **Azure DevOps** y **Visual Studio**.
 
 ---
 
@@ -17,8 +17,8 @@ Actualmente estoy trabajando con tecnologías como **JavaScript**, **HTML**, **C
 
 ### 🎯 Sobre mí:
 - 📚 Actualmente curso la carrera de **Analista en Tecnologías de la Información** en la Universidad ORT Uruguay.
-- 👨‍💻 Tengo experiencia profesional en empresas como **Tata Consultancy Services (TCS)**, donde trabajé en soporte técnico, análisis y desarrollo de soluciones internas.
-- 🌱 Estoy enfocado en seguir mejorando mis habilidades en **desarrollo web full stack**.
+- 👨‍💻 Tengo experiencia profesional en empresas como **Tata Consultancy Services (TCS)**, donde trabajo en soporte técnico, análisis y desarrollo de soluciones internas.
+- 🌱 Estoy enfocado en seguir mejorando mis habilidades en **desarrollo full stack**.
 - 💡 Interesado en aprender nuevas tecnologías y metodologías ágiles, así como en participar en proyectos colaborativos.
 
 ---
